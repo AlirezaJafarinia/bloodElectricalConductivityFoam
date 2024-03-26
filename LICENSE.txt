@@ -1,9 +1,9 @@
                     GNU GENERAL PUBLIC LICENSE
 
-bloodConductivityFoam is Copyright (C) 2018-2024 Graz university of Technology (TU Graz), 
+bloodElectricalConductivityFoam is Copyright (C) 2018-2024 Graz University of Technology (TU Graz), 
 Rechbauerstraße 12, 8010 Graz, Austria.
  
- You may use, distribute and copy bloodConductivityFoam under the terms of GNU General
+ You may use, distribute, and copy bloodConductivityFoam under the terms of GNU General
  Public License version 3, which is displayed below, or (at your option)
  any later version.
 
